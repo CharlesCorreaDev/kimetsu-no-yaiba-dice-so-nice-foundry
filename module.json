@@ -33,26 +33,26 @@
   ],
   "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry",
   "manifest": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json",
-  "download": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/main/module.zip",
-  "readme": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/main/README.md",
+  "download": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/raw/refs/heads/main/module.zip",
+  "readme": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/README.md",
   "media": [
   {
     "type": "cover",
-    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/cover.png",
+    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/cover.png?raw=true",
     "caption": "Kimetsu no Yaiba for Dice So Nice"
   },
     {
       "type": "icon",
-      "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/icon.jpg"
+      "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/icon.jpg?raw=true"
     },
   {
     "type": "screenshot",
-    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/screenshot.png",
+    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/screenshot.png?raw=true",
     "caption": "Screenshot"
   },
   {
     "type": "screenshot",
-    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/dice_set.png",
+    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/dice_set.png?raw=true",
     "caption": "Themes"
   }
  ]
