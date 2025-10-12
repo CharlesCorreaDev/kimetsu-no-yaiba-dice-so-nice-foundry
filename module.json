@@ -1,0 +1,59 @@
+{
+  "id": "kimetsu-no-yaiba-dice-so-nice-foundry",
+  "title": "Kimetsu no Yaiba for Dice So Nice",
+  "description": "A fan-made theme inspired by Kimetsu no Yaiba (Demon Slayer), created by the talented and private mangaka Koyoharu Gotouge.",
+  "version": "1.0.0.0",
+  "library": "false",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13",
+	"maximum": "13"
+  },
+  "authors": [
+    {
+		"name":"Mestre Charles Corrêa",
+		"url": "https://rpg.charlescorrea.com.br",
+		"discord": "MestreCharlesCorrea"
+    }
+  ],
+  "relationships": {
+	  "requires": [{
+		"id": "dice-so-nice",
+		"type": "module",
+		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+	  }]
+	},
+  "scripts": [
+	"js/dice.js"
+  ],
+  "styles": [
+	"css/style.css"
+  ],
+  "languages": [
+  ],
+  "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry",
+  "manifest": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json",
+  "download": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/main/module.zip",
+  "readme": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/main/README.md",
+  "media": [
+  {
+    "type": "cover",
+    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/cover.png",
+    "caption": "Kimetsu no Yaiba for Dice So Nice"
+  },
+    {
+      "type": "icon",
+      "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/icon.jpg"
+    },
+  {
+    "type": "screenshot",
+    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/screenshot.png",
+    "caption": "Screenshot"
+  },
+  {
+    "type": "screenshot",
+    "url": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/img/dice_set.png",
+    "caption": "Themes"
+  }
+ ]
+}
