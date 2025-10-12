@@ -11,7 +11,7 @@ This module adds custom dice for the [Dice So Nice!](https://foundryvtt.com/pack
 
 > ⚠️ This module requires **Dice So Nice! version 3.1.0 or higher**.
 
-This project is **based on and inspired by** *Kimetsu no Yaiba (Demon Slayer)*, a work that blends courage, tragedy, and beauty in equal measure.  
+This project is **based on and inspired by** *Kimetsu no Yaiba (Demon Slayer)*, a story blending courage, tragedy, and beauty.  
 Koyoharu Gotouge is known for being an extremely private person — very little is known about her personal life, and she uses a pseudonym even in interviews.  
 
 Created **by fans, for fans**, with **no commercial intent**.  
@@ -19,13 +19,22 @@ Created **by fans, for fans**, with **no commercial intent**.
 
 ---
 
+### 🔗 Manifest
+
+Manifest URL:  
+👉 [https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json](https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json)
+
+Repository:  
+👉 [https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry)
+
+---
+
 ### 🧩 Installation
 
 1. Make sure you have **Dice So Nice!** installed (version 3.1.0 or higher).  
 2. In Foundry VTT, go to **Settings → Manage Modules → Install Module**.  
-3. Paste the manifest URL of this theme:  
-   👉 [https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry)  
-4. Enable the theme in **Settings → Dice So Nice → Dice Appearance**.
+3. Paste the manifest URL above.  
+4. Enable it in **Settings → Dice So Nice → Dice Appearance**.
 
 ---
 
@@ -36,19 +45,19 @@ Created **by fans, for fans**, with **no commercial intent**.
 📸 Instagram: [@MestreCharlesCorrêa](https://www.instagram.com/MestreCharlesCorrêa)  
 💬 Discord: [MestreCharlesCorrêa](https://discordlookup.com/user/623686991837659146)
 
-**Original work:** *Kimetsu no Yaiba (Demon Slayer)*  
+**Original Work:** *Kimetsu no Yaiba (Demon Slayer)*  
 © Koyoharu Gotouge / Shueisha / Ufotable  
 
-This theme is **not official** and has **no affiliation** with the copyright holders.  
-Made purely for entertainment and appreciation of the original work.
+This is a **fan-made project** with **no affiliation** to the copyright holders, made solely for entertainment and appreciation.
 
 ---
 
 ### ⚖️ License
 
-Distributed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.  
-You may share and adapt, provided credit is given and **no commercial use** is made.  
-🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+Distributed under the **MIT License**.  
+You are free to use, modify, and distribute this software, provided that the original copyright notice and this permission notice are included in all copies.
+
+🔗 License file: [LICENSE](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/LICENSE)
 
 ---
 
@@ -63,7 +72,7 @@ Este módulo adiciona dados personalizados ao [Dice So Nice!](https://foundryvtt
 
 > ⚠️ Este módulo requer **Dice So Nice! versão mínima 3.1.0**.
 
-Este projeto é **baseado e inspirado** em *Kimetsu no Yaiba (Demon Slayer)*, uma história que combina coragem, tragédia e beleza em partes iguais.  
+Este projeto é **baseado e inspirado** em *Kimetsu no Yaiba (Demon Slayer)*, uma história que mistura coragem, tragédia e beleza.  
 Koyoharu Gotouge é conhecida por ser uma pessoa extremamente reservada — pouco se sabe sobre sua vida pessoal, e ela utiliza um pseudônimo inclusive em entrevistas.
 
 Feito **de fã para fã**, **sem qualquer intenção comercial**.  
@@ -71,12 +80,21 @@ Feito **de fã para fã**, **sem qualquer intenção comercial**.
 
 ---
 
+### 🔗 Manifesto
+
+URL do Manifesto:  
+👉 [https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json](https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json)
+
+Repositório:  
+👉 [https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry)
+
+---
+
 ### 🧩 Instalação
 
 1. Certifique-se de ter o módulo **Dice So Nice!** instalado (versão 3.1.0 ou superior).  
-2. No Foundry VTT, acesse **Configurações → Gerenciar Módulos → Instalar Módulo**.  
-3. Cole o link do manifesto do tema:  
-   👉 [https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry)  
+2. No Foundry VTT, vá em **Configurações → Gerenciar Módulos → Instalar Módulo**.  
+3. Cole o link do manifesto acima.  
 4. Ative o tema em **Configurações → Dice So Nice → Aparência dos Dados**.
 
 ---
@@ -91,13 +109,13 @@ Feito **de fã para fã**, **sem qualquer intenção comercial**.
 **Obra original:** *Kimetsu no Yaiba (Demon Slayer)*  
 © Koyoharu Gotouge / Shueisha / Ufotable  
 
-Este tema **não é oficial** e **não possui qualquer afiliação** com os detentores dos direitos autorais.  
-Foi criado apenas para fins de entretenimento e como homenagem à obra original.
+Este é um **projeto de fã**, sem afiliação com os detentores dos direitos autorais, criado apenas para fins de entretenimento e homenagem à obra original.
 
 ---
 
 ### ⚖️ Licença
 
-Distribuído sob a licença **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-Você pode compartilhar e adaptar, desde que dê os devidos créditos e **não utilize comercialmente**.  
-🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+Distribuído sob a **Licença MIT**.  
+Você pode usar, modificar e distribuir este software, desde que mantenha o aviso de direitos autorais e esta permissão em todas as cópias.
+
+🔗 Arquivo da licença: [LICENSE](https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/LICENSE)
