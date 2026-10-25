@@ -1,58 +1,37 @@
 {
   "id": "kimetsu-no-yaiba-dice-so-nice-foundry",
   "title": "Kimetsu no Yaiba for Dice So Nice",
-  "description": "A fan-made theme inspired by Kimetsu no Yaiba (Demon Slayer), created by the talented and private mangaka Koyoharu Gotouge.",
-  "version": "1.0.0.0",
-  "library": "false",
+  "description": "Tema de Kimetsu no Yaiba para Dice So Nice! Este módulo foi migrado para a central oficial fvtt-modules-plus.",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "14"
   },
   "authors": [
     {
-		"name":"Mestre Charles Corrêa",
-		"url": "https://rpg.charlescorrea.com.br",
-		"discord": "MestreCharlesCorrea"
+      "name": "Mestre Charles Corrêa",
+      "url": "https://rpg.charlescorrea.com.br",
+      "discord": "MestreCharlesCorrea"
     }
   ],
   "relationships": {
-	  "requires": [{
-		"id": "dice-so-nice",
-		"type": "module",
-		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
-	  }]
-	},
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+      }
+    ]
+  },
   "scripts": [
-	"js/dice.js"
+    "js/dice.js"
   ],
   "styles": [
-	"css/style.css"
+    "css/style.css"
   ],
-  "languages": [
-  ],
-  "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry",
-  "manifest": "https://raw.githubusercontent.com/charlescorreadev/kimetsu-no-yaiba-dice-so-nice-foundry/refs/heads/main/module.json",
-  "download": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/raw/refs/heads/main/module.zip",
-  "readme": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/README.md",
-  "media": [
-  {
-    "type": "cover",
-    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/cover.png?raw=true",
-    "caption": "Kimetsu no Yaiba for Dice So Nice"
-  },
-    {
-      "type": "icon",
-      "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/icon.jpg?raw=true"
-    },
-  {
-    "type": "screenshot",
-    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/screenshot.png?raw=true",
-    "caption": "Screenshot"
-  },
-  {
-    "type": "screenshot",
-    "url": "https://github.com/CharlesCorreaDev/kimetsu-no-yaiba-dice-so-nice-foundry/blob/main/img/dice_set.png?raw=true",
-    "caption": "Themes"
-  }
- ]
+  "url": "https://github.com/CharlesCorreaDev/fvtt-modules-plus/tree/main/foundry-v14/modules/kimetsu-no-yaiba-dice-so-nice-foundry",
+  "manifest": "https://raw.githubusercontent.com/CharlesCorreaDev/fvtt-modules-plus/main/foundry-v14/modules/kimetsu-no-yaiba-dice-so-nice-foundry/module.json",
+  "download": "https://github.com/CharlesCorreaDev/fvtt-modules-plus/releases/download/kimetsu-v1.0.0/kimetsu-no-yaiba-dice-so-nice-foundry.zip",
+  "readme": "https://raw.githubusercontent.com/CharlesCorreaDev/fvtt-modules-plus/main/foundry-v14/modules/kimetsu-no-yaiba-dice-so-nice-foundry/README.md",
+  "bugs": "https://github.com/CharlesCorreaDev/fvtt-modules-plus/issues"
 }
